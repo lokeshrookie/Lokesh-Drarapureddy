@@ -4,32 +4,26 @@ Do you like my profile
 
 This is a [link](https://www.google.co.in)
 
-`#include<stdio.h>
+**bold
+**Bold
+*italic*
+***Bold and italic
+*italic
+~~Strike
+
+
+```
+#include<stdio.h>
 int main(){
   int a = 5;
   int b = 6;
   int sum = a + b;
   printf("%d", sum);
   }
-  `
-
-``#include<stdio.h>
-int main(){
-  int a = 5;
-  int b = 6;
-  int sum = a + b;
-  printf("%d", sum);
-  }``
-
-```#include<stdio.h>
-int main(){
-  int a = 5;
-  int b = 6;
-  int sum = a + b;
-  printf("%d", sum);
-  }```
+  ```
 
 
+----
 # title 1
 ## title 2
 ### title 3
