@@ -30,6 +30,11 @@ This is a [link](https://www.google.co.in)
 | Row 1a | Row 1b | Row 1c |
 | Row 2a | Row 2b | Row 2c |
 
+| Column 1 | Column 2 | Column 3 |
+| :--- | :---: | ---: |
+| Row 1a | Row 1b | Row 1c |
+| Row 2a | Row 2b | Row 2c |
+
 
 
 
