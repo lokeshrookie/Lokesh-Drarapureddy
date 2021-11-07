@@ -4,12 +4,11 @@ Do you like my profile
 
 This is a [link](https://www.google.co.in)
 
-**bold
-**Bold
+**bold**
 *italic*
-***Bold and italic
-*italic
-~~Strike
+***Bold and italic***
+
+~~Strike~~
 
 
 ```
