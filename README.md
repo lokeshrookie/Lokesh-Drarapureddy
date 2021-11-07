@@ -3,7 +3,15 @@
 Do you like my profile
 
 This is a [link](https://www.google.co.in)
-`code`
+
+`#include<stdio.h>
+int main(){
+  int a = 5;
+  int b = 6;
+  int sum = a + b;
+  printf("%d", sum);
+  }
+  `
 
 ``second code``
 
