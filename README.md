@@ -1,5 +1,7 @@
 ### Hi there 👋
-### <a herf = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" > </a>
+
+👋..... 
+"https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
 
 
 <!--
@@ -8,13 +10,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m  a student
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning android and java
 - 👯 I’m looking to collaborate on ... java
 - 🤔 I’m looking for help with ... Android Application Development
 - 💬 Ask me about ... Java and problem solving
-- 📫 How to reach me: ... lokeshdarapureddy1005@gmail.com
-- 😄 Pronouns: ... loki, lokesh, lucky
-- ⚡ Fun fact: ...   i am a human.
+- 📫 How to reach me: ... rocklinglokesh@gmail.com
+- 😄 Pronouns: ... loki, lokesh, luckie...
+- ⚡ Fun fact: ...   I'm an idiot
 -->
 
 <a herf = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" > </a>
