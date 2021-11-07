@@ -10,7 +10,7 @@ This is a [link](https://www.google.co.in)
 
 ~~Strike~~
 
-* [ ]  One
+* [x]  One
 * [ ]  Two
 * [ ]  Three
 * [ ]  Four
