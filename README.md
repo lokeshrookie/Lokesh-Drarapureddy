@@ -13,9 +13,21 @@ int main(){
   }
   `
 
-``second code``
+``#include<stdio.h>
+int main(){
+  int a = 5;
+  int b = 6;
+  int sum = a + b;
+  printf("%d", sum);
+  }``
 
-```Third code```
+```#include<stdio.h>
+int main(){
+  int a = 5;
+  int b = 6;
+  int sum = a + b;
+  printf("%d", sum);
+  }```
 
 
 # title 1
