@@ -10,7 +10,7 @@ This is a [link](https://www.google.co.in)
 
 ~~Strike~~
 
-![this is image](https://images.hdqwalls.com/wallpapers/hacker-8k-8p.jpg)
+![this is image](https://images.hdqwalls.com/download/hacker-8k-8p-1280x720.jpg)
 
 ![image](
 
