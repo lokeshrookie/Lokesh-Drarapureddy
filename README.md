@@ -2,6 +2,14 @@
 
 Do you like my profile
 
+This is a [link](https://www.google.co.in)
+`code`
+
+``second code``
+
+```Third code```
+
+
 # title 1
 ## title 2
 ### title 3
