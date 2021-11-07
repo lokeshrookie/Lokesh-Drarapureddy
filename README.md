@@ -15,7 +15,7 @@ This is a [link](https://www.google.co.in)
 
 ![hacker](https://cdn.theatlantic.com/thumbor/AkgepovHpRbITRHKd75HXWqJzUA=/0x0:2000x1125/1600x900/media/img/mt/2019/10/Matrix/original.gif)
 
-![image](
+
 
 * [x]  One
 
