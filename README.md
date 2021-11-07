@@ -10,7 +10,9 @@ This is a [link](https://www.google.co.in)
 
 ~~Strike~~
 
-![this is image](D:\SDE Resources\image github hacker mask.jpg)
+![this is image](https://images.hdqwalls.com/wallpapers/hacker-8k-8p.jpg)
+
+![image](
 
 * [x]  One
 
