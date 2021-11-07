@@ -10,6 +10,12 @@ This is a [link](https://www.google.co.in)
 
 ~~Strike~~
 
+* [ ]  One
+* [ ]  Two
+* [ ]  Three
+* [ ]  Four
+* [ ]  Five
+
 
 ```
 #include<stdio.h>
