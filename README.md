@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 👋..... 
-###https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
+https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 
 
 <!--
