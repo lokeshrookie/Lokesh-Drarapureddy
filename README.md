@@ -1,22 +1,33 @@
 ### Hi there 👋
 
+Name: Darapureddy Lokesh
+- 🔭 I’m  a student
+- 🌱 I’m currently learning android and java
+- 👯 I’m looking to collaborate on ... java
+- 🤔 I’m looking for help with ... Android Application Development
+- 💬 Ask me about ... Java and problem solving
+- 📫 How to reach me: ... rocklinglokesh@gmail.com
+- 😄 Pronouns: ... loki, lokesh, luckie...
+- ⚡ Fun fact: ...   I'm an idiot
+-->
+
 Do you like my profile
-
+<!-- 
 This is a [link](https://www.google.co.in)
-
+<!-- 
 **bold**
 *italic*
 ***Bold and italic***
 
-~~Strike~~
+~~Strike~~ -->
 
 ![this is image](https://images.hdqwalls.com/download/hacker-8k-8p-1280x720.jpg)
-
+<!-- 
 
 ![hacker](https://cdn.theatlantic.com/thumbor/AkgepovHpRbITRHKd75HXWqJzUA=/0x0:2000x1125/1600x900/media/img/mt/2019/10/Matrix/original.gif)
+ -->
 
-
-
+<!-- 
 * [x]  One
 
 * [ ]  Three
@@ -41,12 +52,12 @@ This is a [link](https://www.google.co.in)
 | :--- | :---: | ---: |
 | Row 1a | Row 1b | Row 1c |
 | Row 2a | Row 2b | Row 2c |
+ -->
 
 
 
 
-
- helllo
+<!--  helllo -->
 
 
 ```
@@ -116,3 +127,4 @@ Here are some ideas to get you started:
 -->
 
 <a herf = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" > </a>
+ -->
